@@ -15,13 +15,14 @@
 As a 2nd year student pursuing B.Tech in Computer Science and Engineering, I'm exploring the vast universe of code, algorithms, and innovations in the tech world! 💻✨<br><br><be>
 - 🔭 I’m currently working on honing my skills as a full-stack developer.<be>
 - 🌱 I’m continuously learning and experimenting with HTML, CSS, JavaScript, Node.js, Express, React.js, and databases like MongoDB and SQL.<be>
-- 💬 Ask me anything about web development or the latest trends in the tech industry!<br>- 📫 Feel free to reach out to me at  Abbashaider786000@gmail.com<br>   
+- 💬 Ask me anything about web development or the latest trends in the tech industry!<be>
+- 📫 Feel free to reach out to me at  Abbashaider786000@gmail.com<br>   
 - 🥀 Life fact 1: 
 
 
 ![integration](https://latex.codecogs.com/svg.latex?\dpi{400}Life%20=%20\int_{birth}^{death}%20\frac{happiness}{time}%20%20d(time))
 
-
+- ❤️ Life fact 2: ![limit](https://latex.codecogs.com/svg.latex?\lim_{x%20\to%20true\%20love}%20Life(x)%20=%20\prod(Joy,Peace))
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abbas.haider786) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abbas-haider07) 
