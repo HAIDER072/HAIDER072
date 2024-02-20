@@ -20,9 +20,9 @@ As a 2nd year student pursuing B.Tech in Computer Science and Engineering, I'm e
 - 🥀 Life fact 1: 
 
 
-![integration](https://latex.codecogs.com/svg.latex?\dpi{400}Life%20=%20\int_{birth}^{death}%20\frac{happiness}{time}%20%20d(time))
+    &nbsp; &nbsp;      ![integration](https://latex.codecogs.com/svg.latex?\dpi{400}Life%20=%20\int_{birth}^{death}%20\frac{happiness}{time}%20%20d(time))
 
-- ❤️ Life fact 2: ![limit](https://latex.codecogs.com/svg.latex?\lim_{x%20\to%20true\%20love}%20Life(x)%20=%20\prod(Joy,Peace))
+- ❤️ Life fact 2:   &nbsp; &nbsp;   ![limit](https://latex.codecogs.com/svg.latex?\lim_{x%20\to%20true\%20love}%20Life(x)%20=%20\prod(Joy,Peace))
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abbas.haider786) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abbas-haider07) 
