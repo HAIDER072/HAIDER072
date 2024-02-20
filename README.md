@@ -1,4 +1,5 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftushar07-dev%2Ftushar07-dev&psig=AOvVaw1AK6JxO9WHv10lyp1C6w3h&ust=1708521745773000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLj5kNCBuoQDFQAAAAAdAAAAABAE)
+[![MasterHead]<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar07-dev&show_icons=true&locale=en&layout=compact" alt="tushar07-dev" /></p>
 <h1 align="center">Hi 👋, I'm Syed Abbas Haider Zaidi</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
