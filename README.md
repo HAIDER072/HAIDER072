@@ -11,7 +11,8 @@
 
 
 # 💫 About Me:
-As a 2nd year student pursuing B.Tech in Computer Science and Engineering, I'm exploring the vast universe of code, algorithms, and innovations in the tech world! 💻✨<br><br><br>- 🔭 I’m currently working on honing my skills as a full-stack developer.<br>- 🌱 I’m continuously learning and experimenting with HTML, CSS, JavaScript, Node.js, Express, React.js, and databases like MongoDB and SQL.<br>- 💬 Ask me anything about web development or the latest trends in the tech industry!<br>- 📫 Feel free to reach out to me at  Abbashaider786000@gmail.com.
+As a 2nd year student pursuing B.Tech in Computer Science and Engineering, I'm exploring the vast universe of code, algorithms, and innovations in the tech world! 💻✨<br><br><br>- 🔭 I’m currently working on honing my skills as a full-stack developer.<br>- 🌱 I’m continuously learning and experimenting with HTML, CSS, JavaScript, Node.js, Express, React.js, and databases like MongoDB and SQL.<br>- 💬 Ask me anything about web development or the latest trends in the tech industry!<br>- 📫 Feel free to reach out to me at  Abbashaider786000@gmail.com <br> - 🥀 Life fact 1: ![integration](https://latex.codecogs.com/svg.latex?\dpi{400}Life%20=%20\int_{birth}^{death}%20\frac{happiness}{time}%20%20d(time))
+
 
 
 ## 🌐 Socials:
