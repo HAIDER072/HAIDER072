@@ -18,6 +18,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           sed -i 's|YOUR_PERSONAL_ACCESS_TOKEN|'"$GH_TOKEN"'|g' README.md
+          cat README.md  # Debug the file content
 
       - name: Commit and Push Changes
         run: |
