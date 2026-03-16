@@ -16,7 +16,7 @@ As a 4th year student pursuing B.Tech in Computer Science and Engineering, I'm e
 - 🔭 I’m currently working on honing my skills as a full-stack developer.<be>
 - 🌱 I’m continuously learning and experimenting with HTML, CSS, JavaScript, Node.js, Express, React.js, and databases like MongoDB and SQL.<be>
 - 💬 Ask me anything about web development or the latest trends in the tech industry!<be>
-- 📫 Feel free to reach out to me at  Abbashaider786000@gmail.com<br>   
+- 📫 Feel free to reach out to me at  https://haider-dev-iota.vercel.app/<br>   
 - 🥀 Life fact 1: 
 
 
